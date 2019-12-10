@@ -1,8 +1,3 @@
-#!/home/hgj/anaconda/bin/python
-'''
-auter: guojun.huang
-
-'''
 import sys
 from PySide import QtGui
 
